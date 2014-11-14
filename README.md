@@ -4,4 +4,4 @@ HSOH
 ### test tertiary
 * first item
 * second item
-*third ithem
+* third ithem
